@@ -1,0 +1,25 @@
+{
+  "name": "@would-you-bot/types",
+  "version": "0.0.1",
+  "description": "Typings for Would You.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Would-You-Bot/types.git"
+  },
+  "keywords": [
+    "typescript",
+    "types",
+    "would-you",
+    "discord"
+  ],
+  "author": "Slekup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Would-You-Bot/types/issues"
+  },
+  "homepage": "https://github.com/Would-You-Bot/types#readme"
+}
